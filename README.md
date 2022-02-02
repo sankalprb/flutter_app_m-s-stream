@@ -1,6 +1,6 @@
 # TrialPlayerOne
 
-A new Flutter project.
+This is a small music/video player app that I made to practice flutter and dart
 
 ## Getting Started
 
